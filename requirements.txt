@@ -1,0 +1,9 @@
+python-telegram-bot[job-queue]
+yfinance
+pandas
+numpy
+feedparser
+pytz
+httpx
+lxml
+requests
